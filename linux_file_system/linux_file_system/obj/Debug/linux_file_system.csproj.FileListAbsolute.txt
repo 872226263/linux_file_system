@@ -1,0 +1,11 @@
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\bin\Debug\linux_file_system.exe.config
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\bin\Debug\linux_file_system.exe
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\bin\Debug\linux_file_system.pdb
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\obj\Debug\linux_file_system.Properties.Resources.resources
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\obj\Debug\linux_file_system.csproj.GenerateResource.Cache
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\obj\Debug\linux_file_system.csproj.CoreCompileInputs.cache
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\obj\Debug\linux_file_system.exe
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\obj\Debug\linux_file_system.pdb
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\obj\Debug\linux_file_system.csprojResolveAssemblyReference.cache
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\obj\Debug\linux_file_system.Form1.resources
+C:\Users\87222\Desktop\123\linux_file_system\linux_file_system\obj\Debug\linux_file_system.login.resources
