@@ -751,7 +751,7 @@ shutdown:
 
 
 int main() {
-	SSHINFO si = { "root","√‹¬Î","C:\\Users\\87222\\Desktop\\","/home/Plaintext.txt","104.224.131.123" ,27308 };
+	SSHINFO si = { "user","password","C:\\Users\\87222\\Desktop\\","/home/Plaintext.txt","ip" ,port };
 	ssh_exec_read(si);
 	return 0;
 }
